@@ -1,0 +1,18 @@
+PREDAVANJA
+-Bojanić Milana
+
+https://www.eepsi.ftn.uns.ac.rs/group/industrijski-komunikacioni-protokoli-u-ees/about
+
+http://www.esi.ftn.uns.ac.rs/index.php/predmeti/126-industrijski-komunikacioni-protokoli-u-elektroenergetskim-sistemima
+
+-pismeni ispit (30 poena)
+-polaže se u redovnim rokovima
+-napraviće spisak tema koje dolaze na ispit (nisu ispitna pitanja, već oblasti)
+-kači na sajt prezentacije nakon završene oblasti
+-snima predavanja
+
+VEŽBE
+-rad i odbrana projekta (58 poena) i eliminacioni klk (12p, minimalno 6p)
+-rad po dvoje
+-prvih 5 nedelja teorija za klk, posle radimo projekat još 5-6 nedelja
+-radi se neka klijent-server arhitektura vrv, u C jeziku
